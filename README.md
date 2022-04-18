@@ -1,6 +1,10 @@
 ## OpenCV: Open Source Computer Vision Library
 
 ### Resources
+#adding fake changes 
+feature 1
+feature 2
+feature 3
 
 * Homepage: <https://opencv.org>
   * Courses: <https://opencv.org/courses>
